@@ -1,18 +1,18 @@
-![Banner](https://github.com/VathanSilva/VathanSilva/assets/79276987/403de3bb-8a6c-4bf4-a72e-483c2f57b6cf)
+![Banner]([https://github.com/VathanSilva/VathanSilva/assets/79276987/403de3bb-8a6c-4bf4-a72e-483c2f57b6cf](https://media.licdn.com/dms/image/v2/D5616AQE14XwtCvSY5A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712567445190?e=1737590400&v=beta&t=qmBzTdgjlwJ9FR25YiCwSi_oRXyJ52CTsM3EUO5GvDQ))
 
-## 👋 Hi, I’m @VathanSilva
+## 👋 Hi, I’m @SajaathMohamed
 
 - 👀 I’m interested in App & Web development and IoT.
 - 🎓 Graduated in BSc Physical Science - ICT at the University of Sri Jeyawardenapura.
 - 💞️ I’m currently working as a Software Engineer.
 
-[![Download CV](https://img.shields.io/badge/Download-CV-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://francissilva.vercel.app/Francis%20Silva%20CV.pdf)
+[![Download CV](#)
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vathan-silva/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzWYas0cWXTT1YFgZQhLUyQ)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vathansilva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sajaath/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsajaath0409@gmail.com)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://francissilva.vercel.app/)
 
 ## 💻 Tech Stack:
