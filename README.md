@@ -67,9 +67,9 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vathansilva&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SajaathMohamed&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://visitcount.itsvg.in/api?id=vathansilva&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SajaathMohamed&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!---
 VathanSilva/VathanSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
