@@ -46,10 +46,10 @@
 <table>
   <tr>
     <td><a href="https://github.com/vathansilva/README.md">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut&theme=ambient_gradient" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajaathMohamed&layout=donut&theme=ambient_gradient" alt="Top Langs" />
     </a></td>
    <td><a href="https://github.com/vathansilva/README.md">
-      <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient&rank_icon=github" alt="Sajaaths's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SajaathMohamed&show_icons=true&theme=ambient_gradient&rank_icon=github" alt="Sajaaths's GitHub stats" />
     </a></td>
   </tr>
 </table>
@@ -58,11 +58,11 @@
   <tr>
     <td> 
     <a href="https://github.com/vathansilva/README.md">
-      <img src="https://streak-stats.demolab.com/?user=vathansilva&theme=ambient_gradient" alt="Vathan's GitHub stats" />
+      <img src="https://streak-stats.demolab.com/?user=SajaathMohamed&theme=ambient_gradient" alt="Vathan's GitHub stats" />
     </a>
     </td>
    <td><a href="https://github.com/vathansilva/README.md">
-      <img src="https://github-contributor-stats.vercel.app/api?username=vathansilva&limit=5&theme=ambient_gradient" alt="Vathan's GitHub stats" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=SajaathMohamed&limit=5&theme=ambient_gradient" alt="Vathan's GitHub stats" />
     </a></td>
   </tr>
 </table>
