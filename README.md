@@ -2,9 +2,7 @@
 
 ## 👋 Hi, I’m @SajaathMohamed
 
-- 👀 I’m interested in App & Web development and IoT.
-- 🎓 Graduated in BSc Physical Science - ICT at the University of Sri Jeyawardenapura.
-- 💞️ I’m currently working as a Software Engineer.
+- 👀 I’m interested in App & Web development.
 
 [![Download CV](#)
 
