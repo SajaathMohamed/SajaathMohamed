@@ -48,20 +48,19 @@ I'm a passionate **Web Developer** and **Shopify Developer** with a strong found
 <table>
   <tr>
       <td> 
-    <a href="https://github.com/vathansilva/README.md">
-      <img src="https://streak-stats.demolab.com/?user=SajaathMohamed&theme=ambient_gradient" alt="Vathan's GitHub stats" />
-    </a>
-    </td>
-   <td><a href="https://github.com/vathansilva/README.md">
+          ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SajaathMohamed&theme=dark)
+      </td>
+     <td>
+       <a href="https://github.com/vathansilva/README.md">
       <img src="https://github-readme-stats.vercel.app/api?username=SajaathMohamed&show_icons=true&bg_color=30,red,green,yellow&rank_icon=github" alt="Sajaaths's GitHub stats" />
-    </a></td>
+      </a>
+     </td>
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SajaathMohamed&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dark&layout=horizontal&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SajaathMohamed&theme=github)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SajaathMohamed&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SajaathMohamed&theme=dark)
 
 [![](https://visitcount.itsvg.in/api?id=SajaathMohamed&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!---
