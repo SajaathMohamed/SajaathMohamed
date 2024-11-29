@@ -1,17 +1,32 @@
 ![Banner](https://github.com/SajaathMohamed/SajaathMohamed/blob/main/Blue%20and%20White%20Geometric%20Modern%20Personal%20LinkedIn%20Banner%20(1).png?raw=true)
 
-## 👋 Hi, I’m @SajaathMohamed
 
-- 👀 I’m interested in App & Web development.
+# Hi, I'm Sajaath Mohamed 👋
 
-[![Download CV](#)
+I'm a passionate **Web Developer** and **Shopify Developer** with a strong foundation in creating high-quality websites and e-commerce stores. I specialize in designing responsive, user-friendly websites and building custom Shopify stores that help businesses grow online. With a keen eye for detail and a drive for continuous learning, I strive to bring the best solutions to my clients.
+
+### 🔧 Skills & Technologies
+
+- **Frontend**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white), CSS, JavaScript
+- **Backend**: Node.js, Express, PHP, Python
+- **Shopify**: Shopify Liquid, Theme Customization
+- **Databases**: MySQL
+- **Version Control**: Git, GitHub
+- **E-commerce**: Shopify, WooCommerce, Shopify Plus
+- **Tools**: Figma, Photoshop, Php storm, Vs code, Postman
+
+### 💼 My Work
+
+- Custom **Shopify Store Design & Development**
+- E-commerce store optimizations and **Shopify theme customization**
+- Building responsive and dynamic websites
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sajaath/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsajaath0409@gmail.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://francissilva.vercel.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mohamedsajaath9873)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajaath@baylanka.net)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedsajaath.github.io/devblog/)
 
 ## 💻 Tech Stack:
 
