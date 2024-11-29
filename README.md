@@ -46,8 +46,8 @@ I'm a passionate **Web Developer** and **Shopify Developer** with a strong found
 
 <table>
   <tr>
-    <td><a href="https://github.com/vathansilva/README.md">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajaathMohamed&layout=donut&bg_color=DEG,COLOR1,COLOR2,COLOR3" alt="Top Langs" />
+      <td><a href="https://github.com/vathansilva/README.md">
+      <img src="https://github-contributor-stats.vercel.app/api?username=SajaathMohamed&limit=5&theme=ambient_gradient" alt="Vathan's GitHub stats" />
     </a></td>
    <td><a href="https://github.com/vathansilva/README.md">
       <img src="https://github-readme-stats.vercel.app/api?username=SajaathMohamed&show_icons=true&bg_color=30,red,green,yellow&rank_icon=github" alt="Sajaaths's GitHub stats" />
@@ -57,6 +57,9 @@ I'm a passionate **Web Developer** and **Shopify Developer** with a strong found
 
 <table>
   <tr>
+     <td><a href="https://github.com/vathansilva/README.md">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajaathMohamed&layout=donut&bg_color=DEG,COLOR1,COLOR2,COLOR3" alt="Top Langs" />
+    </a></td>
     <td> 
     <a href="https://github.com/vathansilva/README.md">
       <img src="https://streak-stats.demolab.com/?user=SajaathMohamed&theme=ambient_gradient" alt="Vathan's GitHub stats" />
