@@ -47,14 +47,25 @@ I'm a passionate **Web Developer** and **Shopify Developer** with a strong found
 
 <table>
   <tr>
-      <td> 
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SajaathMohamed&theme=dark)
-      </td>
-     <td>
-       <a href="https://github.com/vathansilva/README.md">
-      <img src="https://github-readme-stats.vercel.app/api?username=SajaathMohamed&show_icons=true&bg_color=30,red,green,yellow&rank_icon=github" alt="Sajaaths's GitHub stats" />
-      </a>
-     </td>
+    <td><a href="https://github.com/SajaathMohamed/README.md">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajaathMohamed&layout=donut&theme=ambient_gradient" alt="Top Langs" />
+    </a></td>
+   <td><a href="https://github.com/SajaathMohamed/README.md">
+      <img src="https://github-readme-stats.vercel.app/api?username=SajaathMohamed&show_icons=true&theme=ambient_gradient&rank_icon=github" alt="Sajaath's GitHub stats" />
+    </a></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td> 
+    <a href="https://github.com/SajaathMohamed/README.md">
+      <img src="https://streak-stats.demolab.com/?user=SajaathMohamed&theme=ambient_gradient" alt="Sajaath's GitHub stats" />
+    </a>
+    </td>
+   <td><a href="https://github.com/SajaathMohamed/README.md">
+      <img src="https://github-contributor-stats.vercel.app/api?username=SajaathMohamed&limit=5&theme=ambient_gradient" alt="Sajaath's GitHub stats" />
+    </a></td>
   </tr>
 </table>
 
