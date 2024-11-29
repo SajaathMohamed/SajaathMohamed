@@ -58,6 +58,7 @@ I'm a passionate **Web Developer** and **Shopify Developer** with a strong found
   </tr>
 </table>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SajaathMohamed&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=dark&layout=horizontal&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SajaathMohamed&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
