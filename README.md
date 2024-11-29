@@ -48,7 +48,7 @@ I'm a passionate **Web Developer** and **Shopify Developer** with a strong found
 <table>
   <tr>
       <td> 
-          ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SajaathMohamed&theme=dark)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=SajaathMohamed&theme=dark)
       </td>
      <td>
        <a href="https://github.com/vathansilva/README.md">
