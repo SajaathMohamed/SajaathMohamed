@@ -57,17 +57,6 @@ I'm a passionate **Web Developer** and **Shopify Developer** with a strong found
   </tr>
 </table>
 
-<table>
-  <tr>
-     <td><a href="https://github.com/vathansilva/README.md">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajaathMohamed&layout=donut&bg_color=DEG,COLOR1,COLOR2,COLOR3" alt="Top Langs" />
-    </a></td>
-  
-   <td><a href="https://github.com/vathansilva/README.md">
-      <img src="https://github-contributor-stats.vercel.app/api?username=SajaathMohamed&limit=5&theme=ambient_gradient" alt="Vathan's GitHub stats" />
-    </a></td>
-  </tr>
-</table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SajaathMohamed&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
