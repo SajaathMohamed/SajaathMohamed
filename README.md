@@ -1,4 +1,4 @@
-![Banner]([https://github.com/VathanSilva/VathanSilva/assets/79276987/403de3bb-8a6c-4bf4-a72e-483c2f57b6cf](https://media.licdn.com/dms/image/v2/D5616AQE14XwtCvSY5A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712567445190?e=1737590400&v=beta&t=qmBzTdgjlwJ9FR25YiCwSi_oRXyJ52CTsM3EUO5GvDQ))
+![Banner]([[https://github.com/VathanSilva/VathanSilva/assets/79276987/403de3bb-8a6c-4bf4-a72e-483c2f57b6cf](https://github.com/SajaathMohamed/SajaathMohamed/blob/main/Blue%20and%20White%20Geometric%20Modern%20Personal%20LinkedIn%20Banner%20(1).png)](https://media.licdn.com/dms/image/v2/D5616AQE14XwtCvSY5A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712567445190?e=1737590400&v=beta&t=qmBzTdgjlwJ9FR25YiCwSi_oRXyJ52CTsM3EUO5GvDQ))
 
 ## 👋 Hi, I’m @SajaathMohamed
 
